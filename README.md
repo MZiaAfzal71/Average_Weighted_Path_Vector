@@ -10,7 +10,7 @@ This repository contains scripts and data for extracting, processing, and analyz
 Data Files/
 |-- Excel Files/
 |   |-- Boronic_pages.xlsx
-|   |-- Boronic_Acids_IM2.xlsx
+|   |-- Boronic_Acids_IM.xlsx
 |   |-- Boronic_Acids_SMILES.xlsx
 |   |-- Cleaned_Boronic_Acids.xlsx
 |   |-- Boronic_Bonds_Desc_Boron_En.xlsx
