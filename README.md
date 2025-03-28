@@ -119,5 +119,5 @@ Data Files/
 
 ## Contact
 
-For queries, reach out via GitHub Issues or zia@pucit.edu.pk.
+For queries, reach out via GitHub Issues or zia@pucit.edu.pk, shahid.saeed@ucp.edu.pk, and arnizami@ucp.edu.pk.
 
