@@ -116,11 +116,8 @@ Data Files/
 2. For ML evaluation, comment/uncomment relevant descriptor file paths in `DecisionTree.py` or other ML scripts.
 3. Use `GenerateGraphs.py` to visualize final results.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
-For queries, reach out via GitHub Issues or [your contact email].
+For queries, reach out via GitHub Issues or zia@pucit.edu.pk.
 
