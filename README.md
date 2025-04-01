@@ -36,7 +36,7 @@ Data Files/
 - **Script:** `Get_Data_Boronic_Acids.py`
 - **Function:** Extracts names, InChIKey, SMILES (initially empty), and melting points.
 - **Output:**
-  - `Excel Files/Boronic_Acids_IM2.xlsx`
+  - `Excel Files/Boronic_Acids_IM.xlsx`
   - `Excel Files/Boronic_Acids_SMILES.xlsx` (now with SMILES filled)
 
 ### Step 3: Cleaning Data
