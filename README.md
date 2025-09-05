@@ -68,12 +68,3 @@ To ensure reproducibility, some intermediate datasets generated during experimen
 * Each Colab notebook (usually in the second cell) contains the code required to fetch the relevant dataset directly from OSF.
 
 * This means any dataset used or generated in the paper can be retrieved automatically when running the notebooks.
-
-## 📖 Citation
-
-If you use this repository or dataset, please cite the original data source:
-'''
-Zang, Q., Mansouri, K., Williams, A. J., Judson, R. S., Allen, D. G., Casey, W. M., & Kleinstreuer, N. C. (2017).
-In silico prediction of physicochemical properties of environmental chemicals using molecular fingerprints and machine learning.
-Journal of Chemical Information and Modeling, 57(1), 36–49.
-'''
