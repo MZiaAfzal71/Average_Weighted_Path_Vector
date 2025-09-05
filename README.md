@@ -59,7 +59,7 @@ Data Files/Descriptor Generators/GenerateDescriptorsData.ipynb
 
 * Can be run efficiently on CPU-only systems without any issue.
 
-* GPU is required only for neural-network–based models.
+* GPU can be used only for neural-network–based models.
 
 ## 🔗 Data Availability (OSF)
 
