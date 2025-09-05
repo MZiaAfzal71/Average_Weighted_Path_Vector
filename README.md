@@ -40,8 +40,10 @@ All experiments are implemented as **Google Colab notebooks**.
 You can open any notebook in Colab and execute the cells sequentially to reproduce the results.  
 
 Example:  
-```text
+'''
 Data Files/Descriptor Generators/GenerateDescriptorsData.ipynb
+'''
+
 
 ## ⚡ GPU Requirements
 
